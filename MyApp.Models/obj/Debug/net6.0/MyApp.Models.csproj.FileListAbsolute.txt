@@ -1,0 +1,12 @@
+F:\Technology\MyApp.Models\bin\Debug\net6.0\MyApp.Models.deps.json
+F:\Technology\MyApp.Models\bin\Debug\net6.0\MyApp.Models.dll
+F:\Technology\MyApp.Models\bin\Debug\net6.0\MyApp.Models.pdb
+F:\Technology\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.AssemblyReference.cache
+F:\Technology\MyApp.Models\obj\Debug\net6.0\MyApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+F:\Technology\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfoInputs.cache
+F:\Technology\MyApp.Models\obj\Debug\net6.0\MyApp.Models.AssemblyInfo.cs
+F:\Technology\MyApp.Models\obj\Debug\net6.0\MyApp.Models.csproj.CoreCompileInputs.cache
+F:\Technology\MyApp.Models\obj\Debug\net6.0\MyApp.Models.dll
+F:\Technology\MyApp.Models\obj\Debug\net6.0\refint\MyApp.Models.dll
+F:\Technology\MyApp.Models\obj\Debug\net6.0\MyApp.Models.pdb
+F:\Technology\MyApp.Models\obj\Debug\net6.0\ref\MyApp.Models.dll

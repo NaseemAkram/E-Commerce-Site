@@ -1,0 +1,17 @@
+F:\Technology\MyApp.DataAccess\bin\Debug\net6.0\MyApp.DataAccess.deps.json
+F:\Technology\MyApp.DataAccess\bin\Debug\net6.0\MyApp.DataAccess.runtimeconfig.json
+F:\Technology\MyApp.DataAccess\bin\Debug\net6.0\MyApp.DataAccess.dll
+F:\Technology\MyApp.DataAccess\bin\Debug\net6.0\MyApp.DataAccess.pdb
+F:\Technology\MyApp.DataAccess\bin\Debug\net6.0\MyApp.Models.dll
+F:\Technology\MyApp.DataAccess\bin\Debug\net6.0\MyApp.Models.pdb
+F:\Technology\MyApp.DataAccess\obj\Debug\net6.0\MyApp.DataAccess.csproj.AssemblyReference.cache
+F:\Technology\MyApp.DataAccess\obj\Debug\net6.0\MyApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\Technology\MyApp.DataAccess\obj\Debug\net6.0\MyApp.DataAccess.AssemblyInfoInputs.cache
+F:\Technology\MyApp.DataAccess\obj\Debug\net6.0\MyApp.DataAccess.AssemblyInfo.cs
+F:\Technology\MyApp.DataAccess\obj\Debug\net6.0\MyApp.DataAccess.csproj.CoreCompileInputs.cache
+F:\Technology\MyApp.DataAccess\obj\Debug\net6.0\MyApp.DataAccess.csproj.CopyComplete
+F:\Technology\MyApp.DataAccess\obj\Debug\net6.0\MyApp.DataAccess.dll
+F:\Technology\MyApp.DataAccess\obj\Debug\net6.0\refint\MyApp.DataAccess.dll
+F:\Technology\MyApp.DataAccess\obj\Debug\net6.0\MyApp.DataAccess.pdb
+F:\Technology\MyApp.DataAccess\obj\Debug\net6.0\MyApp.DataAccess.genruntimeconfig.cache
+F:\Technology\MyApp.DataAccess\obj\Debug\net6.0\ref\MyApp.DataAccess.dll
